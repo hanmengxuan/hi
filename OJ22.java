@@ -4,7 +4,7 @@ public class OJ22 {
 
         int t = input.nextInt();
         int n ;
-        String www="heeee";
+
 
 
         for (int i = 0; i < t; i++) {
